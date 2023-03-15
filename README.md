@@ -11,5 +11,5 @@ go install github.com/RandomRobbieBF/S3-from-csp@latest
 Run
 ---
 ```
-s3-from-csp file.txt
+s3fromcsp file.txt
 ```
